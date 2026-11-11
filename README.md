@@ -1,8 +1,8 @@
-# alexfeynman2023.github.io
+# deliberatelabs-stack.github.io
 
-Documentation and landing site for [CiteLens MCP](https://github.com/Alexfeynman2023/citelens-mcp), an open-source MCP server for AI assistants to access Bing Webmaster Tools data, IndexNow submission, and AI citation analysis.
+Documentation and landing site for [CiteLens MCP](https://github.com/deliberatelabs-stack/citelens-mcp), an open-source MCP server for AI assistants to access Bing Webmaster Tools data, IndexNow submission, and AI citation analysis.
 
-**Live site**: https://alexfeynman2023.github.io/
+**Live site**: https://deliberatelabs-stack.github.io/
 
 ## Structure
 
@@ -20,4 +20,4 @@ This is a plain static site with no build step. Edit the HTML/CSS files directly
 ## See Also
 
 - [TESTING.md](TESTING.md) – IndexNow key, verification steps, and testing instructions
-- [CiteLens MCP Repository](https://github.com/Alexfeynman2023/citelens-mcp)
+- [CiteLens MCP Repository](https://github.com/deliberatelabs-stack/citelens-mcp)
